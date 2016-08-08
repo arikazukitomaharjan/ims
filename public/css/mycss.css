@@ -1,0 +1,12 @@
+.btn-com, a.btn-com{
+    display:inline-block;
+    height:21px; width:21px;
+    text-align: center; line-height:21px;
+    font-size:14px; color:#c4c4c4;
+    border:1px solid #d7d7d7;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+}.btn-com .fa{
+    color:#c4c4c4;
+ }
